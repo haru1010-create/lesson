@@ -1,4 +1,4 @@
 .description {
-    border-top: solid 3px red;
-    border-bottom: dotted 3px blue;
+    border-left: dashed 3px green;
+    border-right: double 3px gray;
 }
