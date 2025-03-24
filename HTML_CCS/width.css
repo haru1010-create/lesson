@@ -3,6 +3,7 @@
     background-color: yellow;
 }
 .child {
-    width: auto;
+    width: 80%;
+    max-width: 600px;
     background-color: orange;
 }
