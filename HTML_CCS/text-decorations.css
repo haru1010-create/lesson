@@ -1,4 +1,5 @@
 .description {
     /* ここにCSSを書いていきます */
-    color: #ff0000;
+    color: rgb(255, 0, 0);
+    /* color: rgb(red, green, blue); の（）の中に、割合を数値で入れる。*/
 }
