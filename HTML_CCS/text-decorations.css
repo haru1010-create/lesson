@@ -1,3 +1,4 @@
 .description {
-    background-color: red;
+    text-shadow: 1px 1px 2px gray;
+    /* text-shadow: 影の右方向の長さ 影の下方向の長さ 影のぼけ具合 影の色; */
 }
