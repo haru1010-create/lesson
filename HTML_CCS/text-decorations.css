@@ -1,5 +1,5 @@
 .description {
-    /* borderプロパティ値にsolidを指定すると、実線になります。 */
-    border: solid 3px red;
-    /* solid（実線）が線の種類、3pxが線の太さ、redが線の色 */
+    /* borderプロパティ値にdottedを指定すると、点線になります。 */
+    border: dotted 3px red;
+    /* dotted（点線）が線の種類、3pxが線の太さ、redが線の色 */
 }
