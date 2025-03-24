@@ -1,5 +1,5 @@
 .description {
-    /* borderプロパティ値にdottedを指定すると、点線になります。 */
-    border: dotted 3px red;
-    /* dotted（点線）が線の種類、3pxが線の太さ、redが線の色 */
+    /* borderプロパティ値にdashedを指定すると、波線になります。 */
+    border: dashed 3px red;
+    /* dashed（波線）が線の種類、3pxが線の太さ、redが線の色 */
 }
