@@ -1,5 +1,5 @@
 .description {
     /* ここにCSSを書いていきます */
-    font-weight: bold;
-    /* color: rgb(red, green, blue); の（）の中に、割合を数値で入れる。*/
+    font-family: "游ゴシック体", "YuGothic", "游ゴシック", "Yu Gothic";
+    font-style: italic;
 }
